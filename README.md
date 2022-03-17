@@ -5,4 +5,4 @@ Datos:
 - 20 años
 - Soy estudiante
 - Soy hincha de Boca
-![Foto]()
+![Foto](IMGP0824.JPG)
